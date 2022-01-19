@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Internet_tools_project.dir/main.cpp.o -o Internet_tools_project.exe -Wl,--out-implib,libInternet_tools_project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
